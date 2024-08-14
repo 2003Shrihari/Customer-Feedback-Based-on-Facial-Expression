@@ -1,5 +1,6 @@
 # Customer-Feedback-Based-on-Facial-Expression
-This repository contains the implementation of a facial expression-based emotion feedback collection system, designed to enhance customer service by capturing and analyzing real-time emotional responses. The system uses the FER-2013 dataset to train a deep learning model based on the VGG16 Convolutional Neural Network (CNN) architecture, capable of classifying emotions into seven categories: Happy, Neutral, Sad, Disgusted, Surprised, Fearful, and Angry.This paper was published in the proceedings of the IEEE 3rd International Conference on Innovations in Technology (INOCON) 2024
+This repository contains the implementation of a facial expression-based emotion feedback collection system, designed to enhance customer service by capturing and analyzing real-time emotional responses. The system uses the FER-2013 dataset to train a deep learning model based on the VGG16 Convolutional Neural Network (CNN) architecture, capable of classifying emotions into seven categories: Happy, Neutral, Sad, Disgusted, Surprised, Fearful, and Angry.
+This paper was published in the proceedings of the IEEE 3rd International Conference on Innovations in Technology (INOCON) 2024
 
 Features:
 
