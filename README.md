@@ -4,6 +4,9 @@ This repository contains the implementation of a facial expression-based emotion
 Features:
 
 Real-Time Emotion Detection: Utilizes a Caffe Model face detector to capture and analyze facial expressions in real-time.
+
 Emotion-Based Feedback: Displays the detected emotion and corresponding rating on a user-friendly web interface.
+
 Feedback Logging: Stores customer feedback as a log file, including date, time, detected emotion, and rating, once submitted.
+
 Applications: Potential use cases include telerehabilitation, Advanced Driver Assistance Systems (ADAS), and customer feedback systems.
