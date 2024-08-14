@@ -10,3 +10,4 @@ Emotion-Based Feedback: Displays the detected emotion and corresponding rating o
 Feedback Logging: Stores customer feedback as a log file, including date, time, detected emotion, and rating, once submitted.
 
 Applications: Potential use cases include telerehabilitation, Advanced Driver Assistance Systems (ADAS), and customer feedback systems.
+# This paper was published in the proceedings of the IEEE 3rd International Conference on Innovations in Technology (INOCON) 2024.
